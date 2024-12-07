@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iNotebook-Mern-Stack/static/css/main.87ab02da.css",
+    "main.js": "/iNotebook-Mern-Stack/static/js/main.e18d2dc6.js",
+    "static/media/mern.jpg": "/iNotebook-Mern-Stack/static/media/mern.cf716d215d1b8b03ce36.jpg",
+    "static/media/photo.jpg": "/iNotebook-Mern-Stack/static/media/photo.7be40a8395d14dfe74d6.jpg",
+    "index.html": "/iNotebook-Mern-Stack/index.html",
+    "main.87ab02da.css.map": "/iNotebook-Mern-Stack/static/css/main.87ab02da.css.map",
+    "main.e18d2dc6.js.map": "/iNotebook-Mern-Stack/static/js/main.e18d2dc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87ab02da.css",
+    "static/js/main.e18d2dc6.js"
+  ]
+}
